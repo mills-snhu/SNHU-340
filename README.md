@@ -1,2 +1,3 @@
 # SNHU-300
-Computer Graphics
+Client/ Server Development
+
